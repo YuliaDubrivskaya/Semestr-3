@@ -11,8 +11,9 @@
           </div>
           <div id="b3">
             <ul>
-              <li><a hsef = "https://www.google.com/search?q=%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&sxsrf=ACYBGNRbXrxWKfO0BXPD7aHVxYWLdoOXoA:1581668763547&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiduramz9DnAhUvx4sKHdMyBM0Q_AUoAXoECA4QAw&biw=1745&bih=881&dpr=1.1#imgrc=qd9DtRNDaPWQ3M"> </a>     </li>                   <li><a hsef = "https://yuliadubrivskaya.github.io/Xranilishe/"> </a> </li>
-                  <li><a"https://docs.google.com/presentation/d/1YrTP1KmWL3VVvFj4DlhHDY8I0pZ9Uq4MPIK6twxQDUI/edit?usp=drive_open&ouid=118337898544442893265"> </a> </li>
+              <li><a hsef = "https://yuliadubrivskaya.github.io/Xranilishe/"> </a> </li>                 
+              <li><a hsef = "https://docs.google.com/presentation/d/1YrTP1KmWL3VVvFj4DlhHDY8I0pZ9Uq4MPIK6twxQDUI/edit"> </a> </li>
+              <li><a hsef = "https://drive.google.com/file/d/1_l6nf20Se5Y2Crs4zbCBNH6m-7lcU5cs/view"> </a> </li>
               </div>
             <div id="b4">
               <p> "інформатика" </p>
