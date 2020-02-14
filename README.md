@@ -8,9 +8,6 @@
     <body>
       <div id="b1">
         <div id="b2"> <img src="427d7b6f32a8277fad6f4283cb7c000e.jpg" alt ="Компьютер">
-          <h1>...</h1>
-            <h2>...</h2>
-          <h3>...</h3>
           </div>
           <div id="b3">
             <ul>
