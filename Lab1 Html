@@ -1,4 +1,4 @@
-<!doctype html>
+< !doctype html>
   <html>
     <head>
       <meta chaset="UTF - 8">
@@ -15,9 +15,9 @@
               <li><a hsef = "https://drive.google.com/file/d/1_l6nf20Se5Y2Crs4zbCBNH6m-7lcU5cs/view"> </a> </li>
               </div>
             <div id="b4">
-              <p> "інформатика" </p>
-              <p> "сайт" </p>
-              <p> "Компьютер" </p>
+              <p> інформатика </p>
+              <p> сайт </p>
+              <p> Компьютер </p>
             </div>
             <div id="b5">
               <table border="1">
