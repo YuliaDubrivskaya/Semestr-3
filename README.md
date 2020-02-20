@@ -1,9 +1,8 @@
-
 <!DOCTYPE HTML>
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>Лабораторна робота 1</title>
+		<title>Лаб. 1</title>
 	</head>
 	<body>
 		<div id="b1">
@@ -22,20 +21,19 @@
 			<div id="b3">
 				<ul>
 <li><a href="https://yuliadubrivskaya.github.io/Xranilishe/"></a></li>
-<li><a href="https://drive.google.com/open?id=1YrTP1KmWL3VVvFj4DlhHDY8I0pZ9Uq4MPIK6twxQDUI"</a></li>
-<li><a href="https://drive.google.com/open?id=1fAavlFCuWvyZmkfuMMSD8H2_RTbiWcTq"></a></li>
-
+<li><a href="https://drive.google.com/open?id=1YrTP1KmWL3VVvFj4DlhHDY8I0pZ9Uq4MPIK6twxQDUI"></a></li>
+<li><a href="https://drive.google.com/open?id=1ebQv6WWjoW8MdL4lxAdBA9kaBEwb2XqJ"></a></li>
 			</div>
 			
 			<div id="b4">
 				<p>
-        Інформаційні технології дуже важливі в нашому житті.
+Сайт
 				</p>
 				<p>
-        Вивчення інформатики дуже корисне для сучасної людини
-        </p>
-        <p>
-        Інформатика тісно пов'язана з математикою
+Наука
+				</p>
+				<p>
+Інформатика
 				</p>
 			</div>
 			
@@ -46,36 +44,37 @@
 				</caption>
 				<tr>
 				<td colspan="2" width="300" height="100" align="center">
-					
+					...
 				</td>
 				<td width="300" height="100" align="center">
-					
+					...
 				</td>
 				</tr>
 				<tr>
 				<td width="300" height="100" align="center">
-					
+					...
 				</td>
 				<td width="300" height="100" align="center">
-					
+					...
 				</td>
 				<td rowspan="2" width="300" height="100" align="center">
-					
+					...
 				</td>
 				</tr>
 				<tr>
 				<td width="300" height="100" align="center">
-
+                                        ...
 				</td>
 				<td width="300" height="100" align="center">
-
+                                       ...
 				</td>
 				</tr>
 			</div>
 			<div id="b6">
-				&copy Шувалова О.І.
+				&copy Дубрівська Ю.А.
 			</div>
 		</div>
 		
 	</body>
 </html>
+
