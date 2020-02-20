@@ -8,7 +8,7 @@
 		<div id="b1">
 		
 			<div id="b2">
-				<img src="427d7b6f32a8277fad6f4283cb7c000e.jpg" width="600" high="500">
+				<img src="427d7b6f32a8277fad6f4283cb7c000e.jpg">
 				<h1>
 					Лабораторна робота 1
 				</h1>
@@ -71,7 +71,7 @@
 				</tr>
 			</div>
 			<div id="b6">
-				&copy Дубрівська Ю.А.
+				&copy; Дубрівська Ю.А.
 			</div>
 		</div>
 		
