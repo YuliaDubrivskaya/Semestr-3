@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Контрольна робота з інформатики</title>
+<meta charset="UTF-8">
+</head>
+<body>
+<div id = "b1">
+<h1>Заголовок 1 уровня</h1>
+<p>Абзац перший.</p>
+<p>Абзац другий.</p>
+</div>
+<div id = "b2">
+<ol>
+<li>Один</li>
+<li>Два</li>
+<li>Три</li>
+<ul>
+<li>один</li>
+<li>два</li>
+<li>три</li>
+</ul>
+<li>чотири</li>
+</ol>
+<p><a href="https://www.google.com/">ПОИСК</a></p>
+<img src="">
