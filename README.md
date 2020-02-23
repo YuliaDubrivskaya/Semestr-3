@@ -1,8 +1,9 @@
 <!DOCTYPE HTML>
 <html>
+	<title>Лаб. 1</title>
 	<head>
 		<meta charset="UTF-8">
-		<title>Лаб. 1</title>
+	
 	</head>
 	<body>
 		
