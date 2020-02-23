@@ -6,8 +6,8 @@
 		<title>Лаб. 1</title>
 </head>
 <body>
-	<div id="b1">
-		<div id="b2">
+	<div id="b1" >
+		<div id="b2" >
 				<img src="427d7b6f32a8277fad6f4283cb7c000e.jpg" alt="логотип">
 				<h1>
 					Лабораторна робота 1
@@ -15,19 +15,16 @@
 				<h3>
 					Сайт 
 				</h3>
-				
-			</div id="b2">
-			
+				</div id="b2">
 			<div id="b3">
-				<hr>
-				<ul>
+			<hr>
+			<ul>
 <li><a href = "https://yuliadubrivskaya.github.io/Xranilishe/"> Посилання. Сайт </a></li>
 <li><a href = "https://drive.google.com/open?id=1YrTP1KmWL3VVvFj4DlhHDY8I0pZ9Uq4MPIK6twxQDUI"> Посилання. Презентація </a></li>
 <li><a href = "https://drive.google.com/open?id=1ebQv6WWjoW8MdL4lxAdBA9kaBEwb2XqJ">Посилання. Графік </a></li>
 				</ul>
 				<hr>
 			</div id="b3">
-			
 			<div id="b4">
 				<p>
 Сайт
@@ -39,7 +36,6 @@
 Інформатика
 				</p>
 			</div id="b4">
-			
 			<div id="b5">
 				<table border="1">
 				<caption>
@@ -78,6 +74,5 @@
 				&copy; Дубрівська Ю.А.
 			</div id="b6">
 		</div id="b1"> 
-		
 	</body>
 </html>
