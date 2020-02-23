@@ -1,13 +1,11 @@
 <!DOCTYPE HTML>
 <html>
-	
 	<head>
-	<title>Лаб. 1</title>
 		<meta charset="UTF-8">
+		<title>Лаб. 1</title>
 	</head>
 	<body>
-		
-	<div id="b1">
+		<div id="b1">
 		
 			<div id="b2">
 				<img src="427d7b6f32a8277fad6f4283cb7c000e.jpg" alt="логотип">
@@ -18,7 +16,7 @@
 					Сайт 
 				</h3>
 				
-			</div id="b2">
+			</div>
 			
 			<div id="b3">
 				<hr>
@@ -28,7 +26,7 @@
 <li><a href = "https://drive.google.com/open?id=1ebQv6WWjoW8MdL4lxAdBA9kaBEwb2XqJ">Посилання. Графік </a></li>
 				</ul>
 				<hr>
-			</div id="b3">
+			</div>
 			
 			<div id="b4">
 				<p>
@@ -40,7 +38,7 @@
 				<p>
 Інформатика
 				</p>
-			</div id="b4">
+			</div>
 			
 			<div id="b5">
 				<table border="1">
@@ -75,11 +73,11 @@
 				</td>
 				</tr>
 					</table>
-			</div id="b5">
+			</div>
 			<div id="b6">
 				&copy; Дубрівська Ю.А.
-			</div id="b6">
-		</div id="b1">
+			</div>
+		</div>
 		
 	</body>
 </html>
