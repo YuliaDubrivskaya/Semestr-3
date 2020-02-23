@@ -6,9 +6,7 @@
 		<title>Лаб. 1</title>
 </head>
 <body>
-		
-		<div id="b1">
-		
+	<div id="b1">
 		<div id="b2">
 				<img src="427d7b6f32a8277fad6f4283cb7c000e.jpg" alt="логотип">
 				<h1>
