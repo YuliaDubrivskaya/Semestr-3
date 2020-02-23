@@ -1,13 +1,15 @@
 <!DOCTYPE HTML>
 <html>
+	
  <head>
- <meta charset="UTF-8">
+	<meta charset="UTF-8">
 		<title>Лаб. 1</title>
-	</head>
-	<body>
+</head>
+<body>
+		
 		<div id="b1">
 		
-			<div id="b2">
+		<div id="b2">
 				<img src="427d7b6f32a8277fad6f4283cb7c000e.jpg" alt="логотип">
 				<h1>
 					Лабораторна робота 1
