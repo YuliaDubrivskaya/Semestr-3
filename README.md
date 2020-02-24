@@ -14,7 +14,7 @@
 				<h3>
 					Сайт 
 				</h3>
-				</div id="b2">
+				</div>
 			<div id="b3">
 				<hr>
 				<ul>
@@ -23,7 +23,7 @@
 <li><a href = "https://drive.google.com/open?id=1ebQv6WWjoW8MdL4lxAdBA9kaBEwb2XqJ">Посилання. Графік </a></li>
 				</ul>
 				<hr>
-			</div id="b3">
+			</div>
 			<div id="b4">
 				<p>
 Сайт
@@ -34,7 +34,7 @@
 				<p>
 Інформатика
 				</p>
-			</div id="b4">
+			</div>
 			<div id="b5">
 				<table border="1">
 				<caption>
@@ -68,10 +68,10 @@
 				</td>
 				</tr>
 					</table>
-			</div id="b5">
+			</div>
 			<div id="b6">
 				&copy; Дубрівська Ю.А.
 			</div id="b6">
-		</div id="b1">
+		</div>
 		</body>
 </html>
