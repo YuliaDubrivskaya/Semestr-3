@@ -1,9 +1,10 @@
 <!DOCTYPE HTML>
 <html>
-	<head>
+ <head>
+	 <title>Лаб.1</title>
 		<meta charset="UTF-8">
-		<title>Лаб. 1</title>
 	</head>
+	<LINK REL=STYLESHEET TYPE="text/css" HREF="style.css">
 	<body>
 		<div id="b1">
 			<div id="b2">
