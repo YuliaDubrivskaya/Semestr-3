@@ -6,7 +6,6 @@
 	</head>
 	<body>
 		<div id="b1">
-		
 			<div id="b2">
 				<img src="427d7b6f32a8277fad6f4283cb7c000e.jpg" alt="логотип">
 				<h1>
@@ -15,10 +14,8 @@
 				<h3>
 					Сайт 
 				</h3>
-				
-			</div id="b2">
-			
-			<div id="b3">
+				</div id="b2">
+			div id="b3">
 				<hr>
 				<ul>
 <li><a href = "https://yuliadubrivskaya.github.io/Xranilishe/"> Посилання. Сайт </a></li>
@@ -27,7 +24,6 @@
 				</ul>
 				<hr>
 			</div id="b3">
-			
 			<div id="b4">
 				<p>
 Сайт
@@ -39,7 +35,6 @@
 Інформатика
 				</p>
 			</div id="b4">
-			
 			<div id="b5">
 				<table border="1">
 				<caption>
@@ -78,6 +73,5 @@
 				&copy; Дубрівська Ю.А.
 			</div id="b6">
 		</div id="b1">
-		
-	</body>
+		</body>
 </html>
