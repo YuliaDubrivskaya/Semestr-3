@@ -15,7 +15,7 @@
 					Сайт 
 				</h3>
 				</div id="b2">
-			div id="b3">
+			<div id="b3">
 				<hr>
 				<ul>
 <li><a href = "https://yuliadubrivskaya.github.io/Xranilishe/"> Посилання. Сайт </a></li>
