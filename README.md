@@ -4,7 +4,7 @@
 	 <title>Лаб.1</title>
 		<meta charset="UTF-8">
 	</head>
-	<LINK REL=STYLESHEET TYPE="text/css" HREF="style.css">
+<LINK REL=STYLESHEET TYPE="text/css" HREF="style.css">
 	<body>
 		<div id="b1">
 			<div id="b2">
