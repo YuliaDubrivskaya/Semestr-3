@@ -3,7 +3,7 @@
 #b2{background: blue;border: solid 3px;border-color:pink;margin:2px;}
 
 #b3{width: 25%;float: left ;border: solid 3px; border-color:pink;}
-#b4{width: 60%;float: center ;border: solid 3px; border-color:pink;}
+#b4{width: 60%;float: right ;border: solid 3px; border-color:pink;}
 #b5{width: 13%;float: right ;border: solid 3px; border-color:pink;}
 
 #b6 {clear:both;}
