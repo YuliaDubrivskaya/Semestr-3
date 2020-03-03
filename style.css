@@ -2,7 +2,7 @@
 #b1 {border: solid 3px; border-color:pink;margin:5px;background:yellow;}
 #b2{background: blue;border: solid 3px;border-color:pink;margin:2px;}
 
-#b3{width: 20%;float: left ;}
+#b3{width: 20%;float: left ;align:justify;}
 #b4{width: 50%;float: center ;}
 #b5{width: 25%;float: left ;}
 #b6 {clear:both;}
