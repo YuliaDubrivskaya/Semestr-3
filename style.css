@@ -2,9 +2,8 @@
 #b1 {border: solid 3px; border-color:pink;margin:5px;background:yellow;}
 #b2{background: blue;border: solid 3px;border-color:pink;margin:2px;}
 
-#b3{width: 25%;float: right ;border: solid 3px; border-color:pink;background:gray;}
-#b4{width: 60%;float: center ;border: solid 3px; border-color:pink;background:gray;}
-#b5{width: 13%;float: left ;border: solid 3px; border-color:pink;background:gray;}
-.n{margin-right: 10px;background:gray;}
+#b3{width: 25%;float: right ;}
+#b4{width: 60%;float: center ;}
+#b5{width: 13%;float: left ;}
 #b6 {clear:both;}
 .n {background:grey; padding:5px;border: solid 3px;margin:2px;border-color:pink;}
